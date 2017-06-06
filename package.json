@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "jhipster-uml",
+        "raw": "genie-uml",
         "scope": null,
-        "escapedName": "jhipster-uml",
-        "name": "jhipster-uml",
+        "escapedName": "genie-uml",
+        "name": "genie-uml",
         "rawSpec": "",
         "spec": "latest",
         "type": "tag"
@@ -13,27 +13,27 @@
       "D:\\05_Repository\\npm\\node_modules"
     ]
   ],
-  "_from": "jhipster-uml@latest",
-  "_id": "jhipster-uml@2.0.3",
+  "_from": "genie-uml@latest",
+  "_id": "genie-uml@2.0.3",
   "_inCache": true,
   "_installable": true,
-  "_location": "/jhipster-uml",
+  "_location": "/genie-uml",
   "_nodeVersion": "7.2.1",
   "_npmOperationalInternal": {
     "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/jhipster-uml-2.0.3.tgz_1484403380322_0.13958329358138144"
+    "tmp": "tmp/genie-uml-2.0.3.tgz_1484403380322_0.13958329358138144"
   },
   "_npmUser": {
-    "name": "mathieuaa",
-    "email": "mabouaichi@ippon.fr"
+    "name": "dexter9000",
+    "email": "dexter2000@126.com"
   },
   "_npmVersion": "4.0.3",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "jhipster-uml",
+    "raw": "genie-uml",
     "scope": null,
-    "escapedName": "jhipster-uml",
-    "name": "jhipster-uml",
+    "escapedName": "genie-uml",
+    "name": "genie-uml",
     "rawSpec": "",
     "spec": "latest",
     "type": "tag"
@@ -41,32 +41,19 @@
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "https://registry.npmjs.org/jhipster-uml/-/jhipster-uml-2.0.3.tgz",
+  "_resolved": "https://registry.npmjs.org/genie-uml/-/genie-uml-2.0.3.tgz",
   "_shasum": "bcf9e215ed00ed9f25fb9801045cc77716bb9dea",
   "_shrinkwrap": null,
-  "_spec": "jhipster-uml",
+  "_spec": "genie-uml",
   "_where": "D:\\05_Repository\\npm\\node_modules",
   "author": {
-    "name": "Mathieu Abou-Aichi",
-    "email": "mathieu.aa@free.fr",
-    "url": "https://github.com/MathieuAA"
+    "name": "Alex Meng",
+    "email": "dexter2000@126.com",
+    "url": "https://github.com/dexter9000"
   },
   "bin": {
-    "jhipster-uml": "./jhipster-uml.js"
+    "genie-uml": "./genie-uml.js"
   },
-  "bugs": {
-    "url": "https://github.com/jhipster/jhipster-uml/issues"
-  },
-  "contributors": [
-    {
-      "name": "Mathieu Abou-Aichi",
-      "email": "mathieu.aa@protonmail.com"
-    },
-    {
-      "name": "Carl Klagba",
-      "email": "cklagba@ippon.fr"
-    }
-  ],
   "dependencies": {
     "chalk": "1.1.3",
     "deasync": "0.1.9",
@@ -86,14 +73,14 @@
   "directories": {},
   "dist": {
     "shasum": "bcf9e215ed00ed9f25fb9801045cc77716bb9dea",
-    "tarball": "https://registry.npmjs.org/jhipster-uml/-/jhipster-uml-2.0.3.tgz"
+    "tarball": "https://registry.npmjs.org/genie-uml/-/genie-uml-2.0.3.tgz"
   },
   "engines": {
     "node": ">=4.0.0",
     "npm": ">=2.14.2"
   },
   "gitHead": "48f75dcfcdbfd14fd102713b62d8578699fe1054",
-  "homepage": "https://github.com/jhipster/jhipster-uml",
+  "homepage": "https://github.com/dexter9000/genie-uml",
   "keywords": [
     "generator-jhipster",
     "UML",
@@ -109,25 +96,17 @@
   "main": "module/index.js",
   "maintainers": [
     {
-      "name": "jdubois",
-      "email": "julien.dubois@gmail.com"
-    },
-    {
-      "name": "mathieuaa",
-      "email": "mabouaichi@ippon.fr"
-    },
-    {
-      "name": "cklagba",
-      "email": "klagba@gmail.com"
+      "name": "dexter9000",
+      "email": "dexter2000@126.com"
     }
   ],
-  "name": "jhipster-uml",
+  "name": "genie-uml",
   "optionalDependencies": {},
   "peerDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jhipster/jhipster-uml.git"
+    "url": "git://github.com/dexter9000/genie-uml.git"
   },
   "scripts": {
     "coverage": "./node_modules/istanbul/lib/cli.js cover ./node_modules/mocha/bin/_mocha test; ./node_modules/istanbul/lib/cli.js check-coverage",
