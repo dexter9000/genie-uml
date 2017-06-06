@@ -1,0 +1,10 @@
+node_modules
+.idea
+test/temp
+npm-debug.log
+out/
+.jhipster/
+.juml
+.sonar
+coverage/*
+sonar-project.properties
